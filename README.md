@@ -1,5 +1,5 @@
 # PosthocXAI4BCI
-Code for the paper "Towards Optimising EEG Decoding using Post-hoc Explanations and Domain Knowledge", EMBC 2024
+Code for the paper ["Towards Optimising EEG Decoding using Post-hoc Explanations and Domain Knowledge"](https://arxiv.org/abs/2405.01269), EMBC 2024
 
 # Installing dependencies
 Use requirements.txt with Python 3.7 or higher
